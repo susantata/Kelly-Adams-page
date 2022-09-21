@@ -1,0 +1,47 @@
+
+
+
+body{
+background-color: #e9e9e5;
+}
+
+.header{
+display: flex;
+padding: 10px;
+background-color: #eeeeed;
+}
+
+.logo a{
+    color: grey;
+}
+
+.menu a{
+    justify-content: right;
+}
+.icon>img{
+    width: 20px;
+    margin-top: 10px;
+    border-radius: 30%;
+    font-size: 50px;
+    float: right;        
+}
+
+
+#btn{
+    background-color: lightseagreen;
+    color: azure;
+    padding: 6px;
+    font-size: 8px;
+    margin-bottom: 10px;
+    width: 80px;
+    border: none;
+    border-radius: 20px;
+}
+
+.footer{
+    text-align: center;
+    font-size: 10px;
+}
+
+
+
